@@ -1,0 +1,21 @@
+```gitignore
+# 컴파일된 실행 파일
+*.out
+
+# 오브젝트 파일
+*.o
+
+# 백업 파일
+*~
+
+# Mac 또는 Linux 시스템 파일
+.DS_Store
+
+# VSCode 설정 (사용하는 경우)
+.vscode/
+
+# 실행 결과 이미지
+img/*.png
+
+# 기타 임시 파일
+*.log
